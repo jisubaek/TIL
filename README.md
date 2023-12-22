@@ -1,7 +1,7 @@
 # Today I Learned (TIL)
 
-## SPRING
-* [SPRING 입문]
+## Spring
+* [Spring 입문]
 * 
 
 ## 도서
